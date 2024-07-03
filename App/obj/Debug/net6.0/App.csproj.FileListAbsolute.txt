@@ -175,3 +175,8 @@ C:\Users\nasirid\Desktop\-hometask_Many-to-many-relational-mappings\App\obj\Debu
 C:\Users\nasirid\Desktop\-hometask_Many-to-many-relational-mappings\App\obj\Debug\net6.0\App.pdb
 C:\Users\nasirid\Desktop\-hometask_Many-to-many-relational-mappings\App\obj\Debug\net6.0\App.genruntimeconfig.cache
 C:\Users\nasirid\Desktop\-hometask_Many-to-many-relational-mappings\App\obj\Debug\net6.0\ref\App.dll
+C:\Users\nasirid\Desktop\-hometask_Many-to-many-relational-mappings\App\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\nasirid\Desktop\-hometask_Many-to-many-relational-mappings\App\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\nasirid\Desktop\-hometask_Many-to-many-relational-mappings\App\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\nasirid\Desktop\-hometask_Many-to-many-relational-mappings\App\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\nasirid\Desktop\-hometask_Many-to-many-relational-mappings\App\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll

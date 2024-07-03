@@ -1,5 +1,6 @@
 ﻿using AutoMapper;
 using Domain.Entities;
+using Service.DTOs.Account;
 using Service.DTOs.Admin.Cities;
 using Service.DTOs.Admin.Countries;
 using Service.DTOs.Admin.Educations;
@@ -71,6 +72,9 @@ namespace Service.Helpers
 
             CreateMap<Student, StudentDto>()
                 .ForMember(dest => dest.Groups, opt => opt.MapFrom(m => m.GroupStudents.Select(m => m.Group.Name)));
+
+
+            CreateMap<RegisterDto, AppUser>();
 
         }
     }

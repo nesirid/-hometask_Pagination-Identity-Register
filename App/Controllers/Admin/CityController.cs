@@ -19,7 +19,6 @@ namespace App.Controllers.Admin
         }
 
 
-
         [HttpGet]
         public async Task<IActionResult> GetPaginateDatas([FromQuery] int page = 1, [FromQuery] int take = 1)
         {

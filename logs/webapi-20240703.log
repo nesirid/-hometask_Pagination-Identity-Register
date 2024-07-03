@@ -1270,3 +1270,21 @@ OFFSET @__p_0 ROWS FETCH NEXT @__p_0 ROWS ONLY
 2024-07-03 15:41:41.557 +04:00  INF  Request finished HTTP/2 GET https://localhost:7095/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 26.1181ms
 2024-07-03 15:41:41.679 +04:00  INF  Request starting HTTP/2 GET https://localhost:7095/swagger/v1/swagger.json - -
 2024-07-03 15:41:41.761 +04:00  INF  Request finished HTTP/2 GET https://localhost:7095/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 82.1326ms
+2024-07-03 16:44:50.482 +04:00  INF  Now listening on: https://localhost:7095
+2024-07-03 16:44:50.502 +04:00  INF  Now listening on: http://localhost:5035
+2024-07-03 16:44:50.535 +04:00  INF  Application started. Press Ctrl+C to shut down.
+2024-07-03 16:44:50.535 +04:00  INF  Hosting environment: Development
+2024-07-03 16:44:50.535 +04:00  INF  Content root path: C:\Users\nasirid\Desktop\-hometask_Many-to-many-relational-mappings\App\
+2024-07-03 16:44:51.042 +04:00  INF  Request starting HTTP/2 GET https://localhost:7095/swagger/index.html - -
+2024-07-03 16:44:51.205 +04:00  INF  Request finished HTTP/2 GET https://localhost:7095/swagger/index.html - - - 200 - text/html;charset=utf-8 164.8514ms
+2024-07-03 16:44:51.214 +04:00  INF  Request starting HTTP/2 GET https://localhost:7095/_vs/browserLink - -
+2024-07-03 16:44:51.214 +04:00  INF  Request starting HTTP/2 GET https://localhost:7095/_framework/aspnetcore-browser-refresh.js - -
+2024-07-03 16:44:51.216 +04:00  INF  Request finished HTTP/2 GET https://localhost:7095/_framework/aspnetcore-browser-refresh.js - - - 200 13742 application/javascript;+charset=utf-8 2.5583ms
+2024-07-03 16:44:51.265 +04:00  INF  Request finished HTTP/2 GET https://localhost:7095/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 50.9865ms
+2024-07-03 16:44:51.299 +04:00  INF  Request starting HTTP/2 GET https://localhost:7095/swagger/v1/swagger.json - -
+2024-07-03 16:44:51.376 +04:00  INF  Request finished HTTP/2 GET https://localhost:7095/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 77.1973ms
+2024-07-03 16:46:07.905 +04:00  INF  Now listening on: https://localhost:7095
+2024-07-03 16:46:07.925 +04:00  INF  Now listening on: http://localhost:5035
+2024-07-03 16:46:07.965 +04:00  INF  Application started. Press Ctrl+C to shut down.
+2024-07-03 16:46:07.966 +04:00  INF  Hosting environment: Development
+2024-07-03 16:46:07.966 +04:00  INF  Content root path: C:\Users\nasirid\Desktop\-hometask_Many-to-many-relational-mappings\App\

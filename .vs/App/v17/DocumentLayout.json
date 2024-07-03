@@ -3,118 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\nasirid\\Desktop\\-hometask_Many-to-many-relational-mappings\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9A6055FC-FDA5-436D-81B3-8DFE014B1649}|App\\App.csproj|c:\\users\\nasirid\\desktop\\-hometask_many-to-many-relational-mappings\\app\\controllers\\admin\\citycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A6055FC-FDA5-436D-81B3-8DFE014B1649}|App\\App.csproj|solutionrelative:app\\controllers\\admin\\citycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{16E6FD1D-BEE6-4D09-A4C4-1EAAE32B08BE}|Service\\Service.csproj|c:\\users\\nasirid\\desktop\\-hometask_many-to-many-relational-mappings\\service\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16E6FD1D-BEE6-4D09-A4C4-1EAAE32B08BE}|Service\\Service.csproj|solutionrelative:service\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{16E6FD1D-BEE6-4D09-A4C4-1EAAE32B08BE}|Service\\Service.csproj|c:\\users\\nasirid\\desktop\\-hometask_many-to-many-relational-mappings\\service\\services\\interfaces\\icityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16E6FD1D-BEE6-4D09-A4C4-1EAAE32B08BE}|Service\\Service.csproj|solutionrelative:service\\services\\interfaces\\icityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{16E6FD1D-BEE6-4D09-A4C4-1EAAE32B08BE}|Service\\Service.csproj|c:\\users\\nasirid\\desktop\\-hometask_many-to-many-relational-mappings\\service\\helpers\\account\\registerresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16E6FD1D-BEE6-4D09-A4C4-1EAAE32B08BE}|Service\\Service.csproj|solutionrelative:service\\helpers\\account\\registerresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{16E6FD1D-BEE6-4D09-A4C4-1EAAE32B08BE}|Service\\Service.csproj|c:\\users\\nasirid\\desktop\\-hometask_many-to-many-relational-mappings\\service\\services\\cityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16E6FD1D-BEE6-4D09-A4C4-1EAAE32B08BE}|Service\\Service.csproj|solutionrelative:service\\services\\cityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4DC43E21-3CCD-4C02-9B93-30B3243A567B}|Repository\\Repository.csproj|c:\\users\\nasirid\\desktop\\-hometask_many-to-many-relational-mappings\\repository\\repositories\\interfaces\\icityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4DC43E21-3CCD-4C02-9B93-30B3243A567B}|Repository\\Repository.csproj|solutionrelative:repository\\repositories\\interfaces\\icityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4DC43E21-3CCD-4C02-9B93-30B3243A567B}|Repository\\Repository.csproj|c:\\users\\nasirid\\desktop\\-hometask_many-to-many-relational-mappings\\repository\\helpers\\paginationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4DC43E21-3CCD-4C02-9B93-30B3243A567B}|Repository\\Repository.csproj|solutionrelative:repository\\helpers\\paginationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{16E6FD1D-BEE6-4D09-A4C4-1EAAE32B08BE}|Service\\Service.csproj|c:\\users\\nasirid\\desktop\\-hometask_many-to-many-relational-mappings\\service\\services\\interfaces\\iroomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16E6FD1D-BEE6-4D09-A4C4-1EAAE32B08BE}|Service\\Service.csproj|solutionrelative:service\\services\\interfaces\\iroomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9A6055FC-FDA5-436D-81B3-8DFE014B1649}|App\\App.csproj|c:\\users\\nasirid\\desktop\\-hometask_many-to-many-relational-mappings\\app\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{9A6055FC-FDA5-436D-81B3-8DFE014B1649}|App\\App.csproj|solutionrelative:app\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9A6055FC-FDA5-436D-81B3-8DFE014B1649}|App\\App.csproj|c:\\users\\nasirid\\desktop\\-hometask_many-to-many-relational-mappings\\app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{9A6055FC-FDA5-436D-81B3-8DFE014B1649}|App\\App.csproj|solutionrelative:app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{16E6FD1D-BEE6-4D09-A4C4-1EAAE32B08BE}|Service\\Service.csproj|c:\\users\\nasirid\\desktop\\-hometask_many-to-many-relational-mappings\\service\\services\\interfaces\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16E6FD1D-BEE6-4D09-A4C4-1EAAE32B08BE}|Service\\Service.csproj|solutionrelative:service\\services\\interfaces\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9A6055FC-FDA5-436D-81B3-8DFE014B1649}|App\\App.csproj|c:\\users\\nasirid\\desktop\\-hometask_many-to-many-relational-mappings\\app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9A6055FC-FDA5-436D-81B3-8DFE014B1649}|App\\App.csproj|solutionrelative:app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nasirid\\Desktop\\-hometask_Many-to-many-relational-mappings\\Repository\\Migrations\\20240703101515_AddAlternativMetodForDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Repository\\Migrations\\20240703101515_AddAlternativMetodForDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{16E6FD1D-BEE6-4D09-A4C4-1EAAE32B08BE}|Service\\Service.csproj|c:\\users\\nasirid\\desktop\\-hometask_many-to-many-relational-mappings\\service\\dtos\\account\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16E6FD1D-BEE6-4D09-A4C4-1EAAE32B08BE}|Service\\Service.csproj|solutionrelative:service\\dtos\\account\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A6055FC-FDA5-436D-81B3-8DFE014B1649}|App\\App.csproj|c:\\users\\nasirid\\desktop\\-hometask_many-to-many-relational-mappings\\app\\controllers\\admin\\groupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A6055FC-FDA5-436D-81B3-8DFE014B1649}|App\\App.csproj|solutionrelative:app\\controllers\\admin\\groupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nasirid\\Desktop\\-hometask_Many-to-many-relational-mappings\\Repository\\Migrations\\20240703124614_CreateIdentityTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Repository\\Migrations\\20240703124614_CreateIdentityTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A6055FC-FDA5-436D-81B3-8DFE014B1649}|App\\App.csproj|c:\\users\\nasirid\\desktop\\-hometask_many-to-many-relational-mappings\\app\\controllers\\admin\\roomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A6055FC-FDA5-436D-81B3-8DFE014B1649}|App\\App.csproj|solutionrelative:app\\controllers\\admin\\roomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A258007F-CDEF-4F38-8EEF-99D1295F3949}|Domain\\Domain.csproj|c:\\users\\nasirid\\desktop\\-hometask_many-to-many-relational-mappings\\domain\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A258007F-CDEF-4F38-8EEF-99D1295F3949}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A6055FC-FDA5-436D-81B3-8DFE014B1649}|App\\App.csproj|c:\\users\\nasirid\\desktop\\-hometask_many-to-many-relational-mappings\\app\\controllers\\admin\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A6055FC-FDA5-436D-81B3-8DFE014B1649}|App\\App.csproj|solutionrelative:app\\controllers\\admin\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9A6055FC-FDA5-436D-81B3-8DFE014B1649}|App\\App.csproj|c:\\users\\nasirid\\desktop\\-hometask_many-to-many-relational-mappings\\app\\controllers\\admin\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A6055FC-FDA5-436D-81B3-8DFE014B1649}|App\\App.csproj|solutionrelative:app\\controllers\\admin\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{16E6FD1D-BEE6-4D09-A4C4-1EAAE32B08BE}|Service\\Service.csproj|c:\\users\\nasirid\\desktop\\-hometask_many-to-many-relational-mappings\\service\\helpers\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16E6FD1D-BEE6-4D09-A4C4-1EAAE32B08BE}|Service\\Service.csproj|solutionrelative:service\\helpers\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{16E6FD1D-BEE6-4D09-A4C4-1EAAE32B08BE}|Service\\Service.csproj|c:\\users\\nasirid\\desktop\\-hometask_many-to-many-relational-mappings\\service\\services\\interfaces\\iteacherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16E6FD1D-BEE6-4D09-A4C4-1EAAE32B08BE}|Service\\Service.csproj|solutionrelative:service\\services\\interfaces\\iteacherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{16E6FD1D-BEE6-4D09-A4C4-1EAAE32B08BE}|Service\\Service.csproj|c:\\users\\nasirid\\desktop\\-hometask_many-to-many-relational-mappings\\service\\services\\teacherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16E6FD1D-BEE6-4D09-A4C4-1EAAE32B08BE}|Service\\Service.csproj|solutionrelative:service\\services\\teacherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{16E6FD1D-BEE6-4D09-A4C4-1EAAE32B08BE}|Service\\Service.csproj|c:\\users\\nasirid\\desktop\\-hometask_many-to-many-relational-mappings\\service\\services\\groupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16E6FD1D-BEE6-4D09-A4C4-1EAAE32B08BE}|Service\\Service.csproj|solutionrelative:service\\services\\groupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{16E6FD1D-BEE6-4D09-A4C4-1EAAE32B08BE}|Service\\Service.csproj|c:\\users\\nasirid\\desktop\\-hometask_many-to-many-relational-mappings\\service\\dtos\\admin\\groups\\groupeditdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16E6FD1D-BEE6-4D09-A4C4-1EAAE32B08BE}|Service\\Service.csproj|solutionrelative:service\\dtos\\admin\\groups\\groupeditdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{16E6FD1D-BEE6-4D09-A4C4-1EAAE32B08BE}|Service\\Service.csproj|c:\\users\\nasirid\\desktop\\-hometask_many-to-many-relational-mappings\\service\\services\\interfaces\\igroupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16E6FD1D-BEE6-4D09-A4C4-1EAAE32B08BE}|Service\\Service.csproj|solutionrelative:service\\services\\interfaces\\igroupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{16E6FD1D-BEE6-4D09-A4C4-1EAAE32B08BE}|Service\\Service.csproj|c:\\users\\nasirid\\desktop\\-hometask_many-to-many-relational-mappings\\service\\dtos\\admin\\cities\\cityeditdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16E6FD1D-BEE6-4D09-A4C4-1EAAE32B08BE}|Service\\Service.csproj|solutionrelative:service\\dtos\\admin\\cities\\cityeditdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{16E6FD1D-BEE6-4D09-A4C4-1EAAE32B08BE}|Service\\Service.csproj|c:\\users\\nasirid\\desktop\\-hometask_many-to-many-relational-mappings\\service\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16E6FD1D-BEE6-4D09-A4C4-1EAAE32B08BE}|Service\\Service.csproj|solutionrelative:service\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{16E6FD1D-BEE6-4D09-A4C4-1EAAE32B08BE}|Service\\Service.csproj|c:\\users\\nasirid\\desktop\\-hometask_many-to-many-relational-mappings\\service\\dtos\\admin\\rooms\\roomdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16E6FD1D-BEE6-4D09-A4C4-1EAAE32B08BE}|Service\\Service.csproj|solutionrelative:service\\dtos\\admin\\rooms\\roomdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{16E6FD1D-BEE6-4D09-A4C4-1EAAE32B08BE}|Service\\Service.csproj|c:\\users\\nasirid\\desktop\\-hometask_many-to-many-relational-mappings\\service\\services\\roomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16E6FD1D-BEE6-4D09-A4C4-1EAAE32B08BE}|Service\\Service.csproj|solutionrelative:service\\services\\roomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{16E6FD1D-BEE6-4D09-A4C4-1EAAE32B08BE}|Service\\Service.csproj|c:\\users\\nasirid\\desktop\\-hometask_many-to-many-relational-mappings\\service\\dtos\\admin\\rooms\\roomeditdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16E6FD1D-BEE6-4D09-A4C4-1EAAE32B08BE}|Service\\Service.csproj|solutionrelative:service\\dtos\\admin\\rooms\\roomeditdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4DC43E21-3CCD-4C02-9B93-30B3243A567B}|Repository\\Repository.csproj|c:\\users\\nasirid\\desktop\\-hometask_many-to-many-relational-mappings\\repository\\repositories\\grouprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4DC43E21-3CCD-4C02-9B93-30B3243A567B}|Repository\\Repository.csproj|solutionrelative:repository\\repositories\\grouprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/WORKADMIN_SQLEXPRESS/PB101CourseDb/True/SqlTable/dbo.GroupStudents.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/WORKADMIN_SQLEXPRESS/PB101CourseDb/True/SqlTable/dbo.Students.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{16E6FD1D-BEE6-4D09-A4C4-1EAAE32B08BE}|Service\\Service.csproj|c:\\users\\nasirid\\desktop\\-hometask_many-to-many-relational-mappings\\service\\dtos\\admin\\students\\studenteditdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16E6FD1D-BEE6-4D09-A4C4-1EAAE32B08BE}|Service\\Service.csproj|solutionrelative:service\\dtos\\admin\\students\\studenteditdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4DC43E21-3CCD-4C02-9B93-30B3243A567B}|Repository\\Repository.csproj|c:\\users\\nasirid\\desktop\\-hometask_many-to-many-relational-mappings\\repository\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DC43E21-3CCD-4C02-9B93-30B3243A567B}|Repository\\Repository.csproj|solutionrelative:repository\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -124,360 +42,111 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "PaginationResponse.cs",
-              "DocumentMoniker": "C:\\Users\\nasirid\\Desktop\\-hometask_Many-to-many-relational-mappings\\Repository\\Helpers\\PaginationResponse.cs",
-              "RelativeDocumentMoniker": "Repository\\Helpers\\PaginationResponse.cs",
-              "ToolTip": "C:\\Users\\nasirid\\Desktop\\-hometask_Many-to-many-relational-mappings\\Repository\\Helpers\\PaginationResponse.cs",
-              "RelativeToolTip": "Repository\\Helpers\\PaginationResponse.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T11:16:26.6Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\nasirid\\Desktop\\-hometask_Many-to-many-relational-mappings\\App\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "App\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\nasirid\\Desktop\\-hometask_Many-to-many-relational-mappings\\App\\appsettings.Development.json",
-              "RelativeToolTip": "App\\appsettings.Development.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-03T10:15:18.771Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ICityRepository.cs",
-              "DocumentMoniker": "C:\\Users\\nasirid\\Desktop\\-hometask_Many-to-many-relational-mappings\\Repository\\Repositories\\Interfaces\\ICityRepository.cs",
-              "RelativeDocumentMoniker": "Repository\\Repositories\\Interfaces\\ICityRepository.cs",
-              "ToolTip": "C:\\Users\\nasirid\\Desktop\\-hometask_Many-to-many-relational-mappings\\Repository\\Repositories\\Interfaces\\ICityRepository.cs",
-              "RelativeToolTip": "Repository\\Repositories\\Interfaces\\ICityRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T10:43:06.656Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ICityService.cs",
-              "DocumentMoniker": "C:\\Users\\nasirid\\Desktop\\-hometask_Many-to-many-relational-mappings\\Service\\Services\\Interfaces\\ICityService.cs",
-              "RelativeDocumentMoniker": "Service\\Services\\Interfaces\\ICityService.cs",
-              "ToolTip": "C:\\Users\\nasirid\\Desktop\\-hometask_Many-to-many-relational-mappings\\Service\\Services\\Interfaces\\ICityService.cs",
-              "RelativeToolTip": "Service\\Services\\Interfaces\\ICityService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAApAAAA",
+              "Title": "RegisterResponse.cs",
+              "DocumentMoniker": "C:\\Users\\nasirid\\Desktop\\-hometask_Many-to-many-relational-mappings\\Service\\Helpers\\Account\\RegisterResponse.cs",
+              "RelativeDocumentMoniker": "Service\\Helpers\\Account\\RegisterResponse.cs",
+              "ToolTip": "C:\\Users\\nasirid\\Desktop\\-hometask_Many-to-many-relational-mappings\\Service\\Helpers\\Account\\RegisterResponse.cs",
+              "RelativeToolTip": "Service\\Helpers\\Account\\RegisterResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T10:10:39.798Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CityService.cs",
-              "DocumentMoniker": "C:\\Users\\nasirid\\Desktop\\-hometask_Many-to-many-relational-mappings\\Service\\Services\\CityService.cs",
-              "RelativeDocumentMoniker": "Service\\Services\\CityService.cs",
-              "ToolTip": "C:\\Users\\nasirid\\Desktop\\-hometask_Many-to-many-relational-mappings\\Service\\Services\\CityService.cs",
-              "RelativeToolTip": "Service\\Services\\CityService.cs",
-              "ViewState": "AQIAADwAAAAAAAAAAAAmwFAAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T10:10:39.803Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IRoomService.cs",
-              "DocumentMoniker": "C:\\Users\\nasirid\\Desktop\\-hometask_Many-to-many-relational-mappings\\Service\\Services\\Interfaces\\IRoomService.cs",
-              "RelativeDocumentMoniker": "Service\\Services\\Interfaces\\IRoomService.cs",
-              "ToolTip": "C:\\Users\\nasirid\\Desktop\\-hometask_Many-to-many-relational-mappings\\Service\\Services\\Interfaces\\IRoomService.cs",
-              "RelativeToolTip": "Service\\Services\\Interfaces\\IRoomService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T10:10:39.808Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\nasirid\\Desktop\\-hometask_Many-to-many-relational-mappings\\App\\appsettings.json",
-              "RelativeDocumentMoniker": "App\\appsettings.json",
-              "ToolTip": "C:\\Users\\nasirid\\Desktop\\-hometask_Many-to-many-relational-mappings\\App\\appsettings.json",
-              "RelativeToolTip": "App\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-03T10:13:52.149Z",
+              "WhenOpened": "2024-07-03T13:20:21.745Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CityController.cs",
-              "DocumentMoniker": "C:\\Users\\nasirid\\Desktop\\-hometask_Many-to-many-relational-mappings\\App\\Controllers\\Admin\\CityController.cs",
-              "RelativeDocumentMoniker": "App\\Controllers\\Admin\\CityController.cs",
-              "ToolTip": "C:\\Users\\nasirid\\Desktop\\-hometask_Many-to-many-relational-mappings\\App\\Controllers\\Admin\\CityController.cs",
-              "RelativeToolTip": "App\\Controllers\\Admin\\CityController.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAAACgAAAAJAAAA",
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "C:\\Users\\nasirid\\Desktop\\-hometask_Many-to-many-relational-mappings\\Service\\Services\\AccountService.cs",
+              "RelativeDocumentMoniker": "Service\\Services\\AccountService.cs",
+              "ToolTip": "C:\\Users\\nasirid\\Desktop\\-hometask_Many-to-many-relational-mappings\\Service\\Services\\AccountService.cs",
+              "RelativeToolTip": "Service\\Services\\AccountService.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAIwDAAAABKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T10:10:39.801Z",
+              "WhenOpened": "2024-07-03T13:06:44.082Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "20240703101515_AddAlternativMetodForDB.cs",
-              "DocumentMoniker": "C:\\Users\\nasirid\\Desktop\\-hometask_Many-to-many-relational-mappings\\Repository\\Migrations\\20240703101515_AddAlternativMetodForDB.cs",
-              "RelativeDocumentMoniker": "Repository\\Migrations\\20240703101515_AddAlternativMetodForDB.cs",
-              "ToolTip": "C:\\Users\\nasirid\\Desktop\\-hometask_Many-to-many-relational-mappings\\Repository\\Migrations\\20240703101515_AddAlternativMetodForDB.cs",
-              "RelativeToolTip": "Repository\\Migrations\\20240703101515_AddAlternativMetodForDB.cs",
+              "DocumentIndex": 2,
+              "Title": "IAccountService.cs",
+              "DocumentMoniker": "C:\\Users\\nasirid\\Desktop\\-hometask_Many-to-many-relational-mappings\\Service\\Services\\Interfaces\\IAccountService.cs",
+              "RelativeDocumentMoniker": "Service\\Services\\Interfaces\\IAccountService.cs",
+              "ToolTip": "C:\\Users\\nasirid\\Desktop\\-hometask_Many-to-many-relational-mappings\\Service\\Services\\Interfaces\\IAccountService.cs",
+              "RelativeToolTip": "Service\\Services\\Interfaces\\IAccountService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T12:59:29.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\nasirid\\Desktop\\-hometask_Many-to-many-relational-mappings\\Service\\DTOs\\Account\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "Service\\DTOs\\Account\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\nasirid\\Desktop\\-hometask_Many-to-many-relational-mappings\\Service\\DTOs\\Account\\RegisterDto.cs",
+              "RelativeToolTip": "Service\\DTOs\\Account\\RegisterDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T12:48:43.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20240703124614_CreateIdentityTable.cs",
+              "DocumentMoniker": "C:\\Users\\nasirid\\Desktop\\-hometask_Many-to-many-relational-mappings\\Repository\\Migrations\\20240703124614_CreateIdentityTable.cs",
+              "RelativeDocumentMoniker": "Repository\\Migrations\\20240703124614_CreateIdentityTable.cs",
+              "ToolTip": "C:\\Users\\nasirid\\Desktop\\-hometask_Many-to-many-relational-mappings\\Repository\\Migrations\\20240703124614_CreateIdentityTable.cs",
+              "RelativeToolTip": "Repository\\Migrations\\20240703124614_CreateIdentityTable.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T10:15:15.916Z",
+              "WhenOpened": "2024-07-03T12:46:15.27Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "GroupController.cs",
-              "DocumentMoniker": "C:\\Users\\nasirid\\Desktop\\-hometask_Many-to-many-relational-mappings\\App\\Controllers\\Admin\\GroupController.cs",
-              "RelativeDocumentMoniker": "App\\Controllers\\Admin\\GroupController.cs",
-              "ToolTip": "C:\\Users\\nasirid\\Desktop\\-hometask_Many-to-many-relational-mappings\\App\\Controllers\\Admin\\GroupController.cs",
-              "RelativeToolTip": "App\\Controllers\\Admin\\GroupController.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAUwCEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T10:10:39.771Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "MappingProfile.cs",
-              "DocumentMoniker": "C:\\Users\\nasirid\\Desktop\\-hometask_Many-to-many-relational-mappings\\Service\\Helpers\\MappingProfile.cs",
-              "RelativeDocumentMoniker": "Service\\Helpers\\MappingProfile.cs",
-              "ToolTip": "C:\\Users\\nasirid\\Desktop\\-hometask_Many-to-many-relational-mappings\\Service\\Helpers\\MappingProfile.cs",
-              "RelativeToolTip": "Service\\Helpers\\MappingProfile.cs",
-              "ViewState": "AQIAADcAAAAAAAAAAAAgwAcAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T10:10:39.775Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "StudentController.cs",
-              "DocumentMoniker": "C:\\Users\\nasirid\\Desktop\\-hometask_Many-to-many-relational-mappings\\App\\Controllers\\Admin\\StudentController.cs",
-              "RelativeDocumentMoniker": "App\\Controllers\\Admin\\StudentController.cs",
-              "ToolTip": "C:\\Users\\nasirid\\Desktop\\-hometask_Many-to-many-relational-mappings\\App\\Controllers\\Admin\\StudentController.cs",
-              "RelativeToolTip": "App\\Controllers\\Admin\\StudentController.cs",
-              "ViewState": "AQIAACAAAAAAAAAAAAAIwC4AAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T10:10:39.777Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\nasirid\\Desktop\\-hometask_Many-to-many-relational-mappings\\App\\Program.cs",
               "RelativeDocumentMoniker": "App\\Program.cs",
               "ToolTip": "C:\\Users\\nasirid\\Desktop\\-hometask_Many-to-many-relational-mappings\\App\\Program.cs",
               "RelativeToolTip": "App\\Program.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAmwB4AAAAjAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAmwCQAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T10:10:39.963Z",
+              "WhenOpened": "2024-07-03T12:36:55.114Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "GroupEditDto.cs",
-              "DocumentMoniker": "C:\\Users\\nasirid\\Desktop\\-hometask_Many-to-many-relational-mappings\\Service\\DTOs\\Admin\\Groups\\GroupEditDto.cs",
-              "RelativeDocumentMoniker": "Service\\DTOs\\Admin\\Groups\\GroupEditDto.cs",
-              "ToolTip": "C:\\Users\\nasirid\\Desktop\\-hometask_Many-to-many-relational-mappings\\Service\\DTOs\\Admin\\Groups\\GroupEditDto.cs",
-              "RelativeToolTip": "Service\\DTOs\\Admin\\Groups\\GroupEditDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAxAAAA",
+              "DocumentIndex": 7,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\nasirid\\Desktop\\-hometask_Many-to-many-relational-mappings\\Repository\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Repository\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\nasirid\\Desktop\\-hometask_Many-to-many-relational-mappings\\Repository\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Repository\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAYwA8AAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T10:10:39.767Z"
+              "WhenOpened": "2024-07-03T12:29:37.37Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "RoomController.cs",
-              "DocumentMoniker": "C:\\Users\\nasirid\\Desktop\\-hometask_Many-to-many-relational-mappings\\App\\Controllers\\Admin\\RoomController.cs",
-              "RelativeDocumentMoniker": "App\\Controllers\\Admin\\RoomController.cs",
-              "ToolTip": "C:\\Users\\nasirid\\Desktop\\-hometask_Many-to-many-relational-mappings\\App\\Controllers\\Admin\\RoomController.cs",
-              "RelativeToolTip": "App\\Controllers\\Admin\\RoomController.cs",
-              "ViewState": "AQIAAB0AAAAAAAAAAAAwwCwAAAA3AAAA",
+              "DocumentIndex": 6,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\nasirid\\Desktop\\-hometask_Many-to-many-relational-mappings\\Domain\\Entities\\AppUser.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\AppUser.cs",
+              "ToolTip": "C:\\Users\\nasirid\\Desktop\\-hometask_Many-to-many-relational-mappings\\Domain\\Entities\\AppUser.cs",
+              "RelativeToolTip": "Domain\\Entities\\AppUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T10:10:39.781Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "TeacherService.cs",
-              "DocumentMoniker": "C:\\Users\\nasirid\\Desktop\\-hometask_Many-to-many-relational-mappings\\Service\\Services\\TeacherService.cs",
-              "RelativeDocumentMoniker": "Service\\Services\\TeacherService.cs",
-              "ToolTip": "C:\\Users\\nasirid\\Desktop\\-hometask_Many-to-many-relational-mappings\\Service\\Services\\TeacherService.cs",
-              "RelativeToolTip": "Service\\Services\\TeacherService.cs",
-              "ViewState": "AQIAACYAAAAAAAAAAAAIwDwAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T10:10:39.784Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "TeacherController.cs",
-              "DocumentMoniker": "C:\\Users\\nasirid\\Desktop\\-hometask_Many-to-many-relational-mappings\\App\\Controllers\\Admin\\TeacherController.cs",
-              "RelativeDocumentMoniker": "App\\Controllers\\Admin\\TeacherController.cs",
-              "ToolTip": "C:\\Users\\nasirid\\Desktop\\-hometask_Many-to-many-relational-mappings\\App\\Controllers\\Admin\\TeacherController.cs",
-              "RelativeToolTip": "App\\Controllers\\Admin\\TeacherController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T10:10:39.44Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "ITeacherService.cs",
-              "DocumentMoniker": "C:\\Users\\nasirid\\Desktop\\-hometask_Many-to-many-relational-mappings\\Service\\Services\\Interfaces\\ITeacherService.cs",
-              "RelativeDocumentMoniker": "Service\\Services\\Interfaces\\ITeacherService.cs",
-              "ToolTip": "C:\\Users\\nasirid\\Desktop\\-hometask_Many-to-many-relational-mappings\\Service\\Services\\Interfaces\\ITeacherService.cs",
-              "RelativeToolTip": "Service\\Services\\Interfaces\\ITeacherService.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T10:10:39.786Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "IGroupService.cs",
-              "DocumentMoniker": "C:\\Users\\nasirid\\Desktop\\-hometask_Many-to-many-relational-mappings\\Service\\Services\\Interfaces\\IGroupService.cs",
-              "RelativeDocumentMoniker": "Service\\Services\\Interfaces\\IGroupService.cs",
-              "ToolTip": "C:\\Users\\nasirid\\Desktop\\-hometask_Many-to-many-relational-mappings\\Service\\Services\\Interfaces\\IGroupService.cs",
-              "RelativeToolTip": "Service\\Services\\Interfaces\\IGroupService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T10:10:39.789Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "GroupService.cs",
-              "DocumentMoniker": "C:\\Users\\nasirid\\Desktop\\-hometask_Many-to-many-relational-mappings\\Service\\Services\\GroupService.cs",
-              "RelativeDocumentMoniker": "Service\\Services\\GroupService.cs",
-              "ToolTip": "C:\\Users\\nasirid\\Desktop\\-hometask_Many-to-many-relational-mappings\\Service\\Services\\GroupService.cs",
-              "RelativeToolTip": "Service\\Services\\GroupService.cs",
-              "ViewState": "AQIAAEEAAAAAAAAAAAAQwEgAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T10:10:39.791Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "CityEditDto.cs",
-              "DocumentMoniker": "C:\\Users\\nasirid\\Desktop\\-hometask_Many-to-many-relational-mappings\\Service\\DTOs\\Admin\\Cities\\CityEditDto.cs",
-              "RelativeDocumentMoniker": "Service\\DTOs\\Admin\\Cities\\CityEditDto.cs",
-              "ToolTip": "C:\\Users\\nasirid\\Desktop\\-hometask_Many-to-many-relational-mappings\\Service\\DTOs\\Admin\\Cities\\CityEditDto.cs",
-              "RelativeToolTip": "Service\\DTOs\\Admin\\Cities\\CityEditDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T10:10:39.794Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "RoomDto.cs",
-              "DocumentMoniker": "C:\\Users\\nasirid\\Desktop\\-hometask_Many-to-many-relational-mappings\\Service\\DTOs\\Admin\\Rooms\\RoomDto.cs",
-              "RelativeDocumentMoniker": "Service\\DTOs\\Admin\\Rooms\\RoomDto.cs",
-              "ToolTip": "C:\\Users\\nasirid\\Desktop\\-hometask_Many-to-many-relational-mappings\\Service\\DTOs\\Admin\\Rooms\\RoomDto.cs",
-              "RelativeToolTip": "Service\\DTOs\\Admin\\Rooms\\RoomDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T10:10:39.806Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "StudentService.cs",
-              "DocumentMoniker": "C:\\Users\\nasirid\\Desktop\\-hometask_Many-to-many-relational-mappings\\Service\\Services\\StudentService.cs",
-              "RelativeDocumentMoniker": "Service\\Services\\StudentService.cs",
-              "ToolTip": "C:\\Users\\nasirid\\Desktop\\-hometask_Many-to-many-relational-mappings\\Service\\Services\\StudentService.cs",
-              "RelativeToolTip": "Service\\Services\\StudentService.cs",
-              "ViewState": "AQIAACoAAAAAAAAAAAAvwB0AAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T10:10:39.81Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "RoomEditDto.cs",
-              "DocumentMoniker": "C:\\Users\\nasirid\\Desktop\\-hometask_Many-to-many-relational-mappings\\Service\\DTOs\\Admin\\Rooms\\RoomEditDto.cs",
-              "RelativeDocumentMoniker": "Service\\DTOs\\Admin\\Rooms\\RoomEditDto.cs",
-              "ToolTip": "C:\\Users\\nasirid\\Desktop\\-hometask_Many-to-many-relational-mappings\\Service\\DTOs\\Admin\\Rooms\\RoomEditDto.cs",
-              "RelativeToolTip": "Service\\DTOs\\Admin\\Rooms\\RoomEditDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T10:10:39.814Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "RoomService.cs",
-              "DocumentMoniker": "C:\\Users\\nasirid\\Desktop\\-hometask_Many-to-many-relational-mappings\\Service\\Services\\RoomService.cs",
-              "RelativeDocumentMoniker": "Service\\Services\\RoomService.cs",
-              "ToolTip": "C:\\Users\\nasirid\\Desktop\\-hometask_Many-to-many-relational-mappings\\Service\\Services\\RoomService.cs",
-              "RelativeToolTip": "Service\\Services\\RoomService.cs",
-              "ViewState": "AQIAAB0AAAAAAAAAAAAYwCkAAAA5AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T10:10:39.817Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "GroupRepository.cs",
-              "DocumentMoniker": "C:\\Users\\nasirid\\Desktop\\-hometask_Many-to-many-relational-mappings\\Repository\\Repositories\\GroupRepository.cs",
-              "RelativeDocumentMoniker": "Repository\\Repositories\\GroupRepository.cs",
-              "ToolTip": "C:\\Users\\nasirid\\Desktop\\-hometask_Many-to-many-relational-mappings\\Repository\\Repositories\\GroupRepository.cs",
-              "RelativeToolTip": "Repository\\Repositories\\GroupRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T10:10:39.821Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "dbo.GroupStudents [Data]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/WORKADMIN_SQLEXPRESS/PB101CourseDb/True/SqlTable/dbo.GroupStudents.sql",
-              "ToolTip": "dbo.GroupStudents [Data]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-07-02T19:10:12.502Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "dbo.Students [Data]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/WORKADMIN_SQLEXPRESS/PB101CourseDb/True/SqlTable/dbo.Students.sql",
-              "ToolTip": "dbo.Students [Data]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-07-02T19:09:58.956Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "StudentEditDto.cs",
-              "DocumentMoniker": "C:\\Users\\nasirid\\Desktop\\-hometask_Many-to-many-relational-mappings\\Service\\DTOs\\Admin\\Students\\StudentEditDto.cs",
-              "RelativeDocumentMoniker": "Service\\DTOs\\Admin\\Students\\StudentEditDto.cs",
-              "ToolTip": "C:\\Users\\nasirid\\Desktop\\-hometask_Many-to-many-relational-mappings\\Service\\DTOs\\Admin\\Students\\StudentEditDto.cs",
-              "RelativeToolTip": "Service\\DTOs\\Admin\\Students\\StudentEditDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T10:10:39.959Z"
+              "WhenOpened": "2024-07-03T12:28:16.262Z",
+              "EditorCaption": ""
             }
           ]
         }

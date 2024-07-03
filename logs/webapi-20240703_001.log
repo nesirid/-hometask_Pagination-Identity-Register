@@ -1,0 +1,7 @@
+2024-07-03 16:46:08.342 +04:00  WRN  No store type was specified for the decimal property 'Salary' on entity type 'Teacher'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2024-07-03 16:46:08.486 +04:00  INF  Entity Framework Core 6.0.31 initialized 'AppDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.31' with options: None
+2024-07-03 16:46:14.450 +04:00  INF  Now listening on: https://localhost:7095
+2024-07-03 16:46:14.470 +04:00  INF  Now listening on: http://localhost:5035
+2024-07-03 16:46:14.503 +04:00  INF  Application started. Press Ctrl+C to shut down.
+2024-07-03 16:46:14.503 +04:00  INF  Hosting environment: Development
+2024-07-03 16:46:14.503 +04:00  INF  Content root path: C:\Users\nasirid\Desktop\-hometask_Many-to-many-relational-mappings\App\

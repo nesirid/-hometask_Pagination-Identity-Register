@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "gsAhABHNLlKMmidR/EEYgnQGmCOIcMSiSMpLVBZ4H0aAkrRRVdN5E6HPGMTtEpqnTsrbfPd/fFAFl9xl5eEoxA==",
+  "dgSpecHash": "EHNIFUOIscC0Bj9O7bSWDVd3aPOxI7ELjdvMiDc6wU2Jn/NyYIYaw7TM8HkuNigg6mZF4vjRtlaibQRsVbcQ/w==",
   "success": true,
   "projectFilePath": "C:\\Users\\nasirid\\Desktop\\-hometask_Many-to-many-relational-mappings\\Repository\\Repository.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nasirid\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
+    "C:\\Users\\nasirid\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.31\\microsoft.aspnetcore.cryptography.internal.6.0.31.nupkg.sha512",
+    "C:\\Users\\nasirid\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\6.0.31\\microsoft.aspnetcore.cryptography.keyderivation.6.0.31.nupkg.sha512",
+    "C:\\Users\\nasirid\\.nuget\\packages\\microsoft.aspnetcore.identity.entityframeworkcore\\6.0.31\\microsoft.aspnetcore.identity.entityframeworkcore.6.0.31.nupkg.sha512",
     "C:\\Users\\nasirid\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\nasirid\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.7\\microsoft.data.sqlclient.2.1.7.nupkg.sha512",
     "C:\\Users\\nasirid\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.1.1\\microsoft.data.sqlclient.sni.runtime.2.1.1.nupkg.sha512",
@@ -20,6 +23,8 @@
     "C:\\Users\\nasirid\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\nasirid\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.1\\microsoft.extensions.dependencyinjection.6.0.1.nupkg.sha512",
     "C:\\Users\\nasirid\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\nasirid\\.nuget\\packages\\microsoft.extensions.identity.core\\6.0.31\\microsoft.extensions.identity.core.6.0.31.nupkg.sha512",
+    "C:\\Users\\nasirid\\.nuget\\packages\\microsoft.extensions.identity.stores\\6.0.31\\microsoft.extensions.identity.stores.6.0.31.nupkg.sha512",
     "C:\\Users\\nasirid\\.nuget\\packages\\microsoft.extensions.logging\\6.0.0\\microsoft.extensions.logging.6.0.0.nupkg.sha512",
     "C:\\Users\\nasirid\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\nasirid\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
