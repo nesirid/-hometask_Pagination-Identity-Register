@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using App.Controllers.Admin;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Service.DTOs.Account;
 using Service.Services.Interfaces;
@@ -16,7 +17,7 @@ namespace App.Controllers.UI
 
         [HttpPost]
         public async Task<IActionResult> SignUp([FromBody] RegisterDto request)
-        
+
         {
             if (!ModelState.IsValid) return BadRequest(ModelState);
 
@@ -32,11 +33,13 @@ namespace App.Controllers.UI
         {
             return Ok(await _accountService.GetUsersAsync());
         }
-        [HttpGet]
+
+        [HttpPut("username")]
         public async Task<IActionResult> GetUserByUsername([FromQuery] string username)
         {
             return Ok(await _accountService.GetUserByUsernameAsync(username));
-        } 
+        }
+
 
     } 
 }

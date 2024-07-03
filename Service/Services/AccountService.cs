@@ -35,9 +35,9 @@ namespace Service.Services
 
         public async Task<UserDto> GetUserByUsernameAsync(string username)
         {
+
             var existUser = await _userManager.FindByNameAsync(username);
-            if(existUser is null ) throw new NotFoundException($"{username} - user not found" );
-            return _mapper.Map<UserDto>(existUser);
+            return existUser is null ?  throw new NotFoundException($"{username} - user not found" ) : _mapper.Map<UserDto>(existUser);
         }
 
         public async Task<IEnumerable<UserDto>> GetUsersAsync()

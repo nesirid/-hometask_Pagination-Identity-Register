@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nasirid\\Desktop\\-hometask_Many-to-many-relational-mappings\\Repository\\Repository.csproj": {}
+    "C:\\Users\\nasirid\\Desktop\\TASK\\-hometask_Pagination-Identity-Register\\Repository\\Repository.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nasirid\\Desktop\\-hometask_Many-to-many-relational-mappings\\Domain\\Domain.csproj": {
+    "C:\\Users\\nasirid\\Desktop\\TASK\\-hometask_Pagination-Identity-Register\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nasirid\\Desktop\\-hometask_Many-to-many-relational-mappings\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\nasirid\\Desktop\\TASK\\-hometask_Pagination-Identity-Register\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\nasirid\\Desktop\\-hometask_Many-to-many-relational-mappings\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Users\\nasirid\\Desktop\\TASK\\-hometask_Pagination-Identity-Register\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\nasirid\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nasirid\\Desktop\\-hometask_Many-to-many-relational-mappings\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\nasirid\\Desktop\\TASK\\-hometask_Pagination-Identity-Register\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -38,11 +38,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -82,18 +77,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\nasirid\\Desktop\\-hometask_Many-to-many-relational-mappings\\Repository\\Repository.csproj": {
+    "C:\\Users\\nasirid\\Desktop\\TASK\\-hometask_Pagination-Identity-Register\\Repository\\Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nasirid\\Desktop\\-hometask_Many-to-many-relational-mappings\\Repository\\Repository.csproj",
+        "projectUniqueName": "C:\\Users\\nasirid\\Desktop\\TASK\\-hometask_Pagination-Identity-Register\\Repository\\Repository.csproj",
         "projectName": "Repository",
-        "projectPath": "C:\\Users\\nasirid\\Desktop\\-hometask_Many-to-many-relational-mappings\\Repository\\Repository.csproj",
+        "projectPath": "C:\\Users\\nasirid\\Desktop\\TASK\\-hometask_Pagination-Identity-Register\\Repository\\Repository.csproj",
         "packagesPath": "C:\\Users\\nasirid\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nasirid\\Desktop\\-hometask_Many-to-many-relational-mappings\\Repository\\obj\\",
+        "outputPath": "C:\\Users\\nasirid\\Desktop\\TASK\\-hometask_Pagination-Identity-Register\\Repository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -114,8 +109,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\nasirid\\Desktop\\-hometask_Many-to-many-relational-mappings\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\nasirid\\Desktop\\-hometask_Many-to-many-relational-mappings\\Domain\\Domain.csproj"
+              "C:\\Users\\nasirid\\Desktop\\TASK\\-hometask_Pagination-Identity-Register\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\nasirid\\Desktop\\TASK\\-hometask_Pagination-Identity-Register\\Domain\\Domain.csproj"
               }
             }
           }
@@ -124,11 +119,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -170,7 +160,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -2276,11 +2276,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nasirid\\Desktop\\-hometask_Many-to-many-relational-mappings\\Service\\Service.csproj",
+      "projectUniqueName": "C:\\Users\\nasirid\\Desktop\\TASK\\-hometask_Pagination-Identity-Register\\Service\\Service.csproj",
       "projectName": "Service",
-      "projectPath": "C:\\Users\\nasirid\\Desktop\\-hometask_Many-to-many-relational-mappings\\Service\\Service.csproj",
+      "projectPath": "C:\\Users\\nasirid\\Desktop\\TASK\\-hometask_Pagination-Identity-Register\\Service\\Service.csproj",
       "packagesPath": "C:\\Users\\nasirid\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nasirid\\Desktop\\-hometask_Many-to-many-relational-mappings\\Service\\obj\\",
+      "outputPath": "C:\\Users\\nasirid\\Desktop\\TASK\\-hometask_Pagination-Identity-Register\\Service\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2301,8 +2301,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\nasirid\\Desktop\\-hometask_Many-to-many-relational-mappings\\Repository\\Repository.csproj": {
-              "projectPath": "C:\\Users\\nasirid\\Desktop\\-hometask_Many-to-many-relational-mappings\\Repository\\Repository.csproj"
+            "C:\\Users\\nasirid\\Desktop\\TASK\\-hometask_Pagination-Identity-Register\\Repository\\Repository.csproj": {
+              "projectPath": "C:\\Users\\nasirid\\Desktop\\TASK\\-hometask_Pagination-Identity-Register\\Repository\\Repository.csproj"
             }
           }
         }
@@ -2311,11 +2311,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -2351,7 +2346,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
