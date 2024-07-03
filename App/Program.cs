@@ -58,9 +58,6 @@ builder.Services.AddServiceLayer();
 
 builder.Services.AddSwaggerGen();
 
-   
-
-
 
 var app = builder.Build();
 

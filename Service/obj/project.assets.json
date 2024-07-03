@@ -2270,24 +2270,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\nasirid\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\user\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nasirid\\Desktop\\TASK\\-hometask_Pagination-Identity-Register\\Service\\Service.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\API\\IdentityPagination\\-hometask_Pagination-Identity-Register\\Service\\Service.csproj",
       "projectName": "Service",
-      "projectPath": "C:\\Users\\nasirid\\Desktop\\TASK\\-hometask_Pagination-Identity-Register\\Service\\Service.csproj",
-      "packagesPath": "C:\\Users\\nasirid\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nasirid\\Desktop\\TASK\\-hometask_Pagination-Identity-Register\\Service\\obj\\",
+      "projectPath": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\API\\IdentityPagination\\-hometask_Pagination-Identity-Register\\Service\\Service.csproj",
+      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\API\\IdentityPagination\\-hometask_Pagination-Identity-Register\\Service\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\nasirid\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -2301,8 +2296,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\nasirid\\Desktop\\TASK\\-hometask_Pagination-Identity-Register\\Repository\\Repository.csproj": {
-              "projectPath": "C:\\Users\\nasirid\\Desktop\\TASK\\-hometask_Pagination-Identity-Register\\Repository\\Repository.csproj"
+            "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\API\\IdentityPagination\\-hometask_Pagination-Identity-Register\\Repository\\Repository.csproj": {
+              "projectPath": "C:\\Users\\user\\Desktop\\For Programing Education\\BACKEND\\API\\IdentityPagination\\-hometask_Pagination-Identity-Register\\Repository\\Repository.csproj"
             }
           }
         }
@@ -2346,7 +2341,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
