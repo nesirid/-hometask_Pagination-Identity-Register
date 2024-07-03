@@ -1,0 +1,35 @@
+C:\Users\user\Desktop\For Programing Education\BACKEND\API\AppApiCavidBashirov\CavBashirov\AppCourse\Service\bin\Debug\net6.0\Service.deps.json
+C:\Users\user\Desktop\For Programing Education\BACKEND\API\AppApiCavidBashirov\CavBashirov\AppCourse\Service\bin\Debug\net6.0\Service.dll
+C:\Users\user\Desktop\For Programing Education\BACKEND\API\AppApiCavidBashirov\CavBashirov\AppCourse\Service\bin\Debug\net6.0\Service.pdb
+C:\Users\user\Desktop\For Programing Education\BACKEND\API\AppApiCavidBashirov\CavBashirov\AppCourse\Service\bin\Debug\net6.0\Domain.dll
+C:\Users\user\Desktop\For Programing Education\BACKEND\API\AppApiCavidBashirov\CavBashirov\AppCourse\Service\bin\Debug\net6.0\Repository.dll
+C:\Users\user\Desktop\For Programing Education\BACKEND\API\AppApiCavidBashirov\CavBashirov\AppCourse\Service\bin\Debug\net6.0\Repository.pdb
+C:\Users\user\Desktop\For Programing Education\BACKEND\API\AppApiCavidBashirov\CavBashirov\AppCourse\Service\bin\Debug\net6.0\Domain.pdb
+C:\Users\user\Desktop\For Programing Education\BACKEND\API\AppApiCavidBashirov\CavBashirov\AppCourse\Service\obj\Debug\net6.0\Service.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\For Programing Education\BACKEND\API\AppApiCavidBashirov\CavBashirov\AppCourse\Service\obj\Debug\net6.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\For Programing Education\BACKEND\API\AppApiCavidBashirov\CavBashirov\AppCourse\Service\obj\Debug\net6.0\Service.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\For Programing Education\BACKEND\API\AppApiCavidBashirov\CavBashirov\AppCourse\Service\obj\Debug\net6.0\Service.AssemblyInfo.cs
+C:\Users\user\Desktop\For Programing Education\BACKEND\API\AppApiCavidBashirov\CavBashirov\AppCourse\Service\obj\Debug\net6.0\Service.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\For Programing Education\BACKEND\API\AppApiCavidBashirov\CavBashirov\AppCourse\Service\obj\Debug\net6.0\Service.csproj.CopyComplete
+C:\Users\user\Desktop\For Programing Education\BACKEND\API\AppApiCavidBashirov\CavBashirov\AppCourse\Service\obj\Debug\net6.0\Service.dll
+C:\Users\user\Desktop\For Programing Education\BACKEND\API\AppApiCavidBashirov\CavBashirov\AppCourse\Service\obj\Debug\net6.0\refint\Service.dll
+C:\Users\user\Desktop\For Programing Education\BACKEND\API\AppApiCavidBashirov\CavBashirov\AppCourse\Service\obj\Debug\net6.0\Service.pdb
+C:\Users\user\Desktop\For Programing Education\BACKEND\API\AppApiCavidBashirov\CavBashirov\AppCourse\Service\obj\Debug\net6.0\ref\Service.dll
+C:\Users\nasirid\Desktop\-hometask_Many-to-many-relational-mappings\Service\bin\Debug\net6.0\Service.deps.json
+C:\Users\nasirid\Desktop\-hometask_Many-to-many-relational-mappings\Service\bin\Debug\net6.0\Service.dll
+C:\Users\nasirid\Desktop\-hometask_Many-to-many-relational-mappings\Service\bin\Debug\net6.0\Service.pdb
+C:\Users\nasirid\Desktop\-hometask_Many-to-many-relational-mappings\Service\bin\Debug\net6.0\Domain.dll
+C:\Users\nasirid\Desktop\-hometask_Many-to-many-relational-mappings\Service\bin\Debug\net6.0\Repository.dll
+C:\Users\nasirid\Desktop\-hometask_Many-to-many-relational-mappings\Service\bin\Debug\net6.0\Repository.pdb
+C:\Users\nasirid\Desktop\-hometask_Many-to-many-relational-mappings\Service\bin\Debug\net6.0\Domain.pdb
+C:\Users\nasirid\Desktop\-hometask_Many-to-many-relational-mappings\Service\obj\Debug\net6.0\Service.csproj.AssemblyReference.cache
+C:\Users\nasirid\Desktop\-hometask_Many-to-many-relational-mappings\Service\obj\Debug\net6.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nasirid\Desktop\-hometask_Many-to-many-relational-mappings\Service\obj\Debug\net6.0\Service.AssemblyInfoInputs.cache
+C:\Users\nasirid\Desktop\-hometask_Many-to-many-relational-mappings\Service\obj\Debug\net6.0\Service.AssemblyInfo.cs
+C:\Users\nasirid\Desktop\-hometask_Many-to-many-relational-mappings\Service\obj\Debug\net6.0\Service.csproj.CoreCompileInputs.cache
+C:\Users\nasirid\Desktop\-hometask_Many-to-many-relational-mappings\Service\obj\Debug\net6.0\Service.sourcelink.json
+C:\Users\nasirid\Desktop\-hometask_Many-to-many-relational-mappings\Service\obj\Debug\net6.0\Service.csproj.Up2Date
+C:\Users\nasirid\Desktop\-hometask_Many-to-many-relational-mappings\Service\obj\Debug\net6.0\Service.dll
+C:\Users\nasirid\Desktop\-hometask_Many-to-many-relational-mappings\Service\obj\Debug\net6.0\refint\Service.dll
+C:\Users\nasirid\Desktop\-hometask_Many-to-many-relational-mappings\Service\obj\Debug\net6.0\Service.pdb
+C:\Users\nasirid\Desktop\-hometask_Many-to-many-relational-mappings\Service\obj\Debug\net6.0\ref\Service.dll
