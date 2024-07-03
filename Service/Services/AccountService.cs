@@ -2,8 +2,10 @@
 using Domain.Entities;
 using Microsoft.AspNetCore.Http.Metadata;
 using Microsoft.AspNetCore.Identity;
+using Microsoft.EntityFrameworkCore;
 using Service.DTOs.Account;
 using Service.Helpers.Account;
+using Service.Helpers.Exceptions;
 using Service.Services.Interfaces;
 using System;
 using System.Collections.Generic;
@@ -29,6 +31,18 @@ namespace Service.Services
             _userManager = userManager;
             _mapper = mapper;
 
+        }
+
+        public async Task<UserDto> GetUserByUsernameAsync(string username)
+        {
+            var existUser = await _userManager.FindByNameAsync(username);
+            if(existUser is null ) throw new NotFoundException($"{username} - user not found" );
+            return _mapper.Map<UserDto>(existUser);
+        }
+
+        public async Task<IEnumerable<UserDto>> GetUsersAsync()
+        {
+            return _mapper.Map<IEnumerable<UserDto>>(await _userManager.Users.ToListAsync());
         }
 
         public async Task<RegisterResponse> SignUpAsync(RegisterDto model)

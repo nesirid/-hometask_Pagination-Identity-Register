@@ -1,5 +1,47 @@
 [
   {
+    "ContainingType": "App.Controllers.UI.AccountController",
+    "Method": "SignUp",
+    "RelativePath": "api/Account/action",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Service.DTOs.Account.RegisterDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "App.Controllers.UI.AccountController",
+    "Method": "GetAllUsers",
+    "RelativePath": "api/Account/action",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "App.Controllers.UI.AccountController",
+    "Method": "GetUserByUsername",
+    "RelativePath": "api/Account/action",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "username",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "App.Controllers.Admin.CityController",
     "Method": "Create",
     "RelativePath": "api/admin/City/Create",
